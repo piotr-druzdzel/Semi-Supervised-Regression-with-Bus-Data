@@ -2,3 +2,8 @@ README.md
 data
 .DS_Store
 saved
+build
+dist
+pyproject.toml
+setup.cfg
+Assignment.egg-info
